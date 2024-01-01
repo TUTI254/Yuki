@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1704133980138,
+      "tag": "0000_fantastic_brother_voodoo",
+      "breakpoints": false
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1704135101084,
+      "tag": "0001_sharp_falcon",
+      "breakpoints": false
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1704135466159,
+      "tag": "0002_fantastic_northstar",
+      "breakpoints": false
+    }
+  ]
+}
